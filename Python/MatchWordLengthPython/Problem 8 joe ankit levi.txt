@@ -1,0 +1,16 @@
+Problem 8
+Write a function named wordCount that counts how many words are atleast the length of desired wordLength. The input file already exists when wordCount is called. Write the results to a new file , wordCount creates the output file.
+
+Input the function wordCount takes three parameters:
+•	Infile, a string that is the name of the file that is to be read. The file that inFile refers to contains only lower case letters and white space (no punctuation marks or other special characters).
+•	Outfile, a string that is the name of the file to which wordCount writes its output
+•	wordLength, that is the length of the words that you want to keep track of
+Output For each line of the infile, wordCount should write a corresponding line to outFile containing a single integer : the number of words that are atleast the desired length of variable wordLength. 
+
+Correct output is :
+2
+4
+3
+4
+3
+6
