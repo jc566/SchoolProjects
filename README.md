@@ -1,1 +1,1 @@
-<h1>This Repo is for Projects done at BCC/NJIT</h1>
+<h1>This Repo is for Assignments/Projects done at BCC/NJIT</h1>
